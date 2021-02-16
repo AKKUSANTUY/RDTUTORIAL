@@ -1,7 +1,7 @@
 # Welcome Sob, [H4CK3RS404](https://youtubw.com/c/RDTUTORIL-official) here 🙌
 
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
-<p><img align="center" width=100% src="https://raw.githubusercontent.com/RDTUTORIAL/RDTUTORIAL/main/121657510_1000479207083415_1101568902593936241_n.jpg" width=600px height=650px alt="RDTUTORIAL" /></p>
+<p><img align="center" width=100% src="https://raw.githubusercontent.com/RDTUTORIAL/RDTUTORIAL/main/121657510_1000479207083415_1101568902593936241_n.jpg" width=600px height=720px alt="RDTUTORIAL" /></p>
 <h2> Support Me On</h2>
 <!-- Wih Ada Bang Jago Recode & Copas Code Aing Njink -->
 <!-- Aing Juga Bikin Sendiri Njink Lu Enak Maen Copy2 Aja Kan Goblok -->
