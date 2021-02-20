@@ -32,7 +32,7 @@ ___
 ### Donate
 ____
 - Paypal - woytesaja@gmail.com
-- Saweria.co - [Here](saweria.co/RDTUTORIAL)
+- Saweria.co - [Here](https://saweria.co/RDTUTORIAL)
 - BTC - 3L3okCNLv8TXNqz8xgCrMKt9NWHUTb8Vta
 
 ### About Me ⚠️
