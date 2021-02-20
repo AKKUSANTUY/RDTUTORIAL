@@ -2,7 +2,7 @@
 
 ___
 
-<p align='center'><a href="https://instagram.com/rdtutorial_official"><img height="200" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/rdtutorial_official"><img height="200" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/profile.jfif?raw=true"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
