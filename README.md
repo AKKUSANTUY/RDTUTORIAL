@@ -11,9 +11,9 @@ ___
 <p align='center'> I Love Technology, Hacking And I Want To Know Everything. :ghost: </p>
 
 <p align='center'>
-   <a href="https://twitter.com/h4ck3rs404/"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/rdtutorial_official/"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://youtube.com/c/RDTUTORIAL-official/"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://twitter.com/h4ck3rs404/"><img height="30" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/rdtutorial_official/"><img height="30" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://youtube.com/c/RDTUTORIAL-official/"><img height="30" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/YouTube.png?raw=true"></a>
 </P>
 
 :page_with_curl: I'm currently learning:
